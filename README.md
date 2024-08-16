@@ -9,7 +9,7 @@
 - [Contribution](#contribution)
 
 ## Introduction
-Eagle Estates is a comprehensive real estate management system designed to streamline the processes involved in real estate management, including property listing, client management, and transactions. The system aims to provide an efficient and user-friendly platform for real estate agencies to manage their operations.
+Eagle Estates is a comprehensive real estate management system designed to streamline the processes involved in real estate management, including property listing and client management. The system aims to provide an efficient and user-friendly platform for real estate agencies to manage their operations.
 
 ## Features
 - Property listing and management
