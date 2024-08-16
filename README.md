@@ -6,7 +6,6 @@
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Live Demo](#live-demo)
 - [Contribution](#contribution)
 
 ## Introduction
@@ -46,9 +45,6 @@ Eagle Estates is a comprehensive real estate management system designed to strea
 1. Start your local server.
 2. Open your web browser and navigate to `http://localhost/EagleEstates_RealEstateManagementSystem`.
 3. Register or log in to start using the system.
-
-## Live Demo
-The project is hosted live and can be accessed at [EagleEstates](https://eagle-estate.000webhostapp.com/index.php).
 
 ## Contribution
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code follows the existing style and conventions.
